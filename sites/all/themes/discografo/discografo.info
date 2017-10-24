@@ -1,0 +1,5 @@
+name = Discografo
+description = This is a sub-theme of theme bootstrap.
+core = 7.x
+base theme = bootstrap
+stylesheets[all][] = layout.css
